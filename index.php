@@ -28,10 +28,24 @@
 							</div>
 						</div>
 
-						<div class="container-fluid page__container">
-							<div class="row card-group-row">
+						<form class="container-fluid page__container">
+							<div class="card card-form">
+								<div class="row card-form__body card-body">
+
+
+
+								</div>
 							</div>
-						</div>
+
+							<div class="card card-form">
+								<div class="row card-form__body card-body flex justify-content-center">
+
+									<button type="button" class="btn btn-danger mx-2">Cancel</button>
+									<button type="submit" class="btn btn-success mx-2">Save</button>
+
+								</div>
+							</div>
+						</form>
 					</div>
 					<!-- // END drawer-layout__content -->
 
